@@ -3,7 +3,7 @@ There u can find all Projects thats i use to work with
 
 
 
-UTP 1
+**UTP 1**
 Zadanie: tabela państw
 
 Przedstawić w tabeli JTable państwa z pliku.
@@ -28,8 +28,10 @@ i pokazywane w tabeli jak liczby
 pokazać w tabeli flagi państw (wymaga modyfikacji pliku państw i dodanie kolumny, pokazującej flagę jako grafikę)
 zapewnić pokazywanie wszystkich państw świata (jakich narzędzi użyjemy, żeby to łatwo zrobić)
 wyróżnić komórki z liczbą ludności dla państw z ludnością > 20 mln czerwonym kolorem pisma
-UTP2
-Napisać aplikację, która symuluje zakupy w kwiaciarni "samoobsługowej". W kwiaciarni są kwiaty, kwiaty mają swoje nazwy oraz kolory. Ceny kwiatów znajdują się w cenniku. Do kwiaciarni przychodzą klienci. Klienci mają imiona oraz dysponują jakimś zasobem pieniędzy. Wybierają kwiaty i umieszczają je na wózku sklepowym. Następnie płacą za zawartość wózka i przepakowują ją do pudełka (jakiegoś pudełka na kwiaty).
+ 
+**UTP2**
+
+ Napisać aplikację, która symuluje zakupy w kwiaciarni "samoobsługowej". W kwiaciarni są kwiaty, kwiaty mają swoje nazwy oraz kolory. Ceny kwiatów znajdują się w cenniku. Do kwiaciarni przychodzą klienci. Klienci mają imiona oraz dysponują jakimś zasobem pieniędzy. Wybierają kwiaty i umieszczają je na wózku sklepowym. Następnie płacą za zawartość wózka i przepakowują ją do pudełka (jakiegoś pudełka na kwiaty).
 
 Dodawanie do programu nowych rodzajów kwiatów ma byc bardzo łatwe. Przy dodaniu nowego rodzaju kwiatów nie wolno modyfikować żadnych innych klas programu. Wymagania dodatkowe:
 
@@ -40,8 +42,9 @@ Ważne uwagi. W kwiaciarni mogą być kwiaty, których zapomniano dodać do cenn
 
 I na koniec: nie przejmujemy się tym, że np. róże mogą mieć wiele kolorów. Dla uproszczenia przyjęliśmy, że róże są czerwone itd.
 
-UTP3
-zadanie
+**UTP3**
+
+ zadanie
 Zadanie: ceny przelotów - lambda1
 
 Lista dest zawiera informacje o cenach przelotów w postaci napisów:
@@ -97,7 +100,8 @@ to DPS - price in PLN: 8600
 to HKT - price in PLN: 4300
 UTP4
 zadanie
-Zadanie: Generics
+
+          **Zadanie: Generics**
 
 Stworzyć sparametryzowane interfejsy:
 
@@ -116,7 +120,8 @@ Gdy w metodzie test1 selektor wybiera z listy liczby < 10, a mapper zwraca liczb
 
 Gdy w metodzie test2 selektor wybiera z listy napisy, których długiość jest większa od 3 znakow, a mapper dzwraca dlugość przekazanego napisu, powiększoną o 10, to na konsoli zobaczymy: [14, 17]
 
-zadanie
+**zadanie**
+                                                          
 Zadanie: klasa Maybe
 
 Zdefiniować klasę Maybe o następujących właściwościach.
@@ -185,7 +190,9 @@ zadanie
 Zadanie. Lambda-wyrażenia dla niefunkcyjnych interfejsów ? Spowodować, by w programie, po naciśnięciu klawisza myszki na przycisku b na konsoli zostało wypisane "ok".
 
 zadanie
-Zadanie: dodatkowe operacje na listach
+ 
+
+ **Zadanie: dodatkowe operacje na listach**
 
 Stworzyć klasę XList, dostarczającą dodatkowych możliwości tworzenia list i operowania na nich. W klasie powinny znaleźć się odpowiednie konstruktory oraz statyczne metody of, umożliwiające tworzenie obiektów XList z innych kolekcji, tablic oraz argumentów podawanych przez przecinki.
 
